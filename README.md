@@ -1,4 +1,5 @@
-Live link [Click____Here]("target=_blank" https://rakibulrsm.netlify.app/)
+Live link [Click____Here](https://rakibulrsm.netlify.app/)
+<a href="https://rakibulrsm.netlify.app/" target="_blank">https://rakibulrsm.netlify.app/</a>
 
 <!-- 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
