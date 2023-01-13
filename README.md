@@ -1,4 +1,4 @@
-Live link [Click____Here](https://rakibulrsm.netlify.app/)
+Live link [Click____Here](<a href="https://rakibulrsm.netlify.app/" target="_blank">https://rakibulrsm.netlify.app/</a>)
 <a href="https://rakibulrsm.netlify.app/" target="_blank">https://rakibulrsm.netlify.app/</a>
 <!-- <a href="https://rakibulrsm.netlify.app/" target="_blank">https://rakibulrsm.netlify.app/</a> -->
 
